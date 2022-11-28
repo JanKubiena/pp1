@@ -1,0 +1,14 @@
+{
+      "firm": "Apple",
+      "model": 13,
+      "size": "8 inches",
+      "applications": [
+            "settings",
+            "appstore"
+      ],
+      "working": true,
+      "number": {
+            "landline": "123444321",
+            "mobile": "777888999"
+      }
+}
